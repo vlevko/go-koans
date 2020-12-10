@@ -12,7 +12,7 @@ func aboutEnumeration() {
 		}
 
 		assert(concatenated == "hello world!") // for loops have a modern variation
-		assert(total == 3)           // which offers both a value and an index
+		assert(total == 3)                     // which offers both a value and an index
 	}
 
 	{
